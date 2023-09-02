@@ -1,0 +1,13 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "Summer Jamz",
+      "_id": "014e8014-9f07-4b27-a8f9-da182c300882"
+    },
+    {
+      "title": "90's Dance Mix",
+      "_id": "e1ca7ed5-8a2a-4ecb-9a5f-bac177e8fb71"
+    }
+  ]
+}
